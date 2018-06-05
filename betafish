@@ -24,29 +24,29 @@
     <a href="https://en.wikipedia.org/wiki/Siamese_fighting_fish" target="_blank">Learn More</a>
     <h3>Species</h3>
     <ul>
-      <li>Arctos</li>
-      <li>Collarus</li>
-      <li>Horribilis</li>
-      <li>Nelsoni (extinct)</li>
+      <li>Veiltail</li>
+      <li>Crowntail</li>
+      <li>Combtail</li>
+      <li>Double Tail (extinct)</li>
     </ul>
     <h3>Features</h3>
-    <p>Brown bears are not always completely brown. Some can be reddish or yellowish. They have very large, curved claws and huge paws. Male brown bears are often 30% larger than female brown bears. They can range from 5 feet to 9 feet from head to toe.</p>
+    <p>Beta fish in their natural habitat are not very colorful. They have been bred to be very vibrant shades of red, blue and green. </p>
   </div>
   <div id="habitat">
-    <h2>Habitat</h2>
-    <h3>Countries with Large Brown Bear Populations</h3>
+    <h2>How to Take Care of Your Beta</h2>
+    <h3>The Tank</h3>
     <ol>
-      <li>Russia</li>
-      <li>United States</li>
-      <li>Canada</li>
+      <li>The tank should be around 1 liter or larger.</li>
+      <li>Check water quality once a week.</li>
+      <li>Check filter daily.</li>
     </ol>
-    <h3>Countries with Small Brown Bear Populations</h3>
-    <p>Some countries with smaller brown bear populations include Armenia, Belarus, Bulgaria, China, Finland, France, Greece, India, Japan, Nepal, Poland, Romania, Slovenia, Turkmenistan, and Uzbekistan.</p>
+    <h3>Diet</h3>
+    <p>Beta should be fed twice daily. Their food should include small pellets or crushed flakes. Feed the beta no more then they can eat in 2 minutes. </p>
   </div>
   <div id="media">
     <h2>Media</h2>
-    <img src="https://s3.amazonaws.com/codecademy-content/courses/web-101/web101-image_brownbear.jpg" />
-    <video src="https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-1/lesson-2/htmlcss1-vid_brown-bear.mp4" height="240" width="320" controls>Video not supported</video>
+    <img src="dd538655d02876ea6e9c73db8777ebca--black-betta-fish.jpg" />
+    <video src="https://www.youtube.com/watch?v=7peVkKsedNI" height="240" width="320" controls>Video not supported</video>
   </div>
 </body>
 
